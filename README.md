@@ -37,7 +37,7 @@ Al finalizar con éxito el curso usted estará en capacidad de:
 
 ## Requisitos
 
-  * [Python](http://www.python.org) version \>= 3.7;
+  * [Python](http://www.python.org) version >= 3.7;
   * [Numpy](http://www.numpy.org), para álgebra lineal y arrays multidimensionales;
   * [Pandas](http://pandas.pydata.org/), para manipulación y análisis de datos;
   * [Scikit-learn](http://scikit-learn.org), librería de Machine Learning;
@@ -51,24 +51,35 @@ Una opción fácil de instalar que incluye todos estos paquetes (y más) es [Ana
 
 ## Evaluación
 
-La evaluación del curso se realizará a través de las siguientes evaluaciones sumativas:
+Las estrategias de evaluación se centran en la valoración de los resultados de aprendizaje mediante dos enfoques:
 
-  * **(25%)** Taller - Técnicas Predictivas y Reducción de Dimensiones.
-  * **(25%)** Taller - Técnicas de Clasificación.
-  * **(10%)** Juego serio (Conceptos de procesos estocásticos).
-  * **(40%)** Hackatón (Actividad sincrónica intensiva).
+### Evaluación Formativa
+Compuesta por ejercicios a realizar mediante **Notebooks** en cada módulo. Su objetivo es revisar conceptos, mejorar competencias de programación y realizar análisis de resultados para la toma de decisiones.
+
+### Evaluación Sumativa (100%)
+Corrobora el logro de aprendizajes y competencias mediante las siguientes actividades:
+
+* **(24%) Evaluación sumativa - Taller Técnicas Predictivas y Reducción de Dimensiones.**
+* **(24%) Evaluación sumativa - Taller Técnicas de Clasificación.**
+    * *Nota sobre Talleres:* Cada taller cuenta con tres momentos de retroalimentación: 
+        1. Retroalimentación automática inicial.
+        2. Guía para revisión y rediseño del modelo.
+        3. Retroalimentación final del profesor y asignación de nota.
+* **(12%) Evaluaciones de contenido:** Incluye tres quices (previos a las sesiones 2, 3 y 4) y una infografía (previa a la última sesión).
+* **(40%) Evaluación de la actividad sincrónica intensiva - Hackatón.**
 
 -----
 
 ## Cronograma
 
-| Fecha | Sesión | Notebooks/Presentaciones | Ejercicios |
+| Fecha | Sesión | Notebooks/Presentaciones | Ejercicios / Entregables |
 | :---- | :--- | :--- | :--- |
-| **Semana 1** | PCA y reducción de dimensiones | [L1: Intro PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación Ortogonal](Notebooks/L3_ValidationOrthogonal-2.ipynb) | - |
-| **Semana 2** | Regresión Lineal, Regresión Logística y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) <br>[L5: Regresión Logistica](Notebooks/L5_LogisticRegression.ipynb) <br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb)| |
-| **Semana 3** | Modelos de Clasificación | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb) <br> [L8: KNN](Notebooks/L8_KNN.ipynb) <br> [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb) | - |
-| **Semana 4** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) <br> [L11: Time Series](Notebooks/L11_TimeSeries.ipynb) <br> [L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb) | - |
+| **Semana 1** | PCA y reducción de dimensiones | [L1: Intro PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación Ortogonal](Notebooks/L3_ValidationOrthogonal-2.ipynb) | Ejercicios en Notebooks |
+| **Semana 2** | Regresión Lineal, Logística y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) <br>[L5: Regresión Logistica](Notebooks/L5_LogisticRegression.ipynb) <br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb)| **Quiz 1** (Antes de sesión) |
+| **Semana 3** | Modelos de Clasificación | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb) <br> [L8: KNN](Notebooks/L8_KNN.ipynb) <br> [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb) | **Quiz 2** (Antes de sesión) |
+| **Semana 4** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) <br> [L11: Time Series](Notebooks/L11_TimeSeries.ipynb) <br> [L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb) | **Quiz 3** (Antes de sesión) |
 | **Semana 5** | Hackatón | Presentación Hackatón | Hackatón |
+| **Semana 6** | Cierre del Curso | - | **Infografía** (Antes de sesión) |
 
 -----
 
