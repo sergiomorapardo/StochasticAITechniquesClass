@@ -79,11 +79,11 @@ Corrobora el logro de aprendizajes y competencias mediante las siguientes activi
 | **Semana 2** | Regresión Lineal, Regularización y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) | **Quiz 1** (Antes de sesión) |
 | **Semana 3** | Regresión Logística y Validación Cruzada | [L5: Regresión Logística](Notebooks/L5_LogisticRegression.ipynb)<br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb) | **Quiz 2** (Antes de sesión) |
 | **Semana 4** | Modelos de Clasificación: Distancias y KNN | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb)<br>[L8: KNN](Notebooks/L8_KNN.ipynb) | **Quiz 3** (Antes de sesión) |
-| **Semana 5** | Modelos de Clasificación: Naive Bayes y CART | [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb)<br>[L11: Time Series](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y heurísticas](Notebooks/L13_iforest_heristics.ipynb)\* | Ejercicios en Notebooks |
-| **Semana 5 (provisional)** | Hackatón | Presentación Hackatón | Hackatón |
+| **Semana 5** | Modelos de Clasificación: Naive Bayes y CART | [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb) | Ejercicios en Notebooks |
+| **Semana 5 (provisional)** | Hackatón | Presentación Hackatón<br>[L11: Time Series](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y heurísticas](Notebooks/L13_iforest_heristics.ipynb)\* | Hackatón |
 | **Semana 6** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) | **Infografía** (Antes de sesión) |
 
-\* L11, L12 y L13 pueden utilizarse como material de apoyo para la hackatón, según las necesidades del caso.
+\* L11, L12 y L13 pueden utilizarse como material de apoyo según el problema analítico que se defina para la hackatón.
 
 -----
 
