@@ -58,9 +58,6 @@ Las estrategias de evaluación se centran en la valoración de los resultados de
 Compuesta por ejercicios a realizar mediante **Notebooks** en cada módulo. Su objetivo es revisar conceptos, mejorar competencias de programación y realizar análisis de resultados para la toma de decisiones.
 
 ### Evaluación Sumativa (100%)
-
-**Pendiente de confirmación para el periodo 2630:** el siguiente esquema proviene del README anterior. El cronograma del Word incluye un juego serio, pero no especifica porcentajes, quices ni infografía.
-
 Corrobora el logro de aprendizajes y competencias mediante las siguientes actividades:
 
 * **(24%) Evaluación sumativa - Taller Técnicas Predictivas y Reducción de Dimensiones.**
@@ -76,21 +73,17 @@ Corrobora el logro de aprendizajes y competencias mediante las siguientes activi
 
 ## Cronograma
 
-La distribución de temas y las fechas siguen el documento **TEIA_cronograma 2630**. Los notebooks del repositorio se asignan por tema; su numeración y sus casos prácticos pueden diferir de los materiales de la plataforma. La hackatón se ubica provisionalmente en la **semana 5**, con fechas y horarios por confirmar.
-
-| Semana | Tema y encuentro sincrónico | Notebooks del repositorio | Actividades y fechas límite |
-| :--- | :--- | :--- | :--- |
-| **1** | Presentación y reducción de dimensiones<br>**28/10/2026** | [L1: Introducción a PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline con PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación de ortogonalidad](Notebooks/L3_ValidationOrthogonal-2.ipynb) | Material fundamental: **27/10**.<br>Presentación de la asignatura, prácticas y foro: **30/10**.<br>Taller formativo de PCA: **01/11**. |
-| **2** | Regresión lineal, selección de variables y regularización<br>**04/11/2026** | [L4: Regresión lineal y regularización](Notebooks/L4_LinearRegression.ipynb) — incluye validación cruzada y búsqueda de hiperparámetros para regresión | Material fundamental: **03/11**.<br>Prácticas de regresión lineal y regularización y foro: **06/11**. |
-| **3** | Regresión logística y evaluación de modelos predictivos<br>**11/11/2026** | [L5: Regresión logística](Notebooks/L5_LogisticRegression.ipynb)<br>[L6: Validación cruzada y optimización de modelos](Notebooks/L6_CrossValidation.ipynb) — después de L5; ejemplos de clasificación, estrategias de partición, búsqueda de hiperparámetros y prevención de fuga de información | Material fundamental: **10/11**.<br>Prácticas de regresión logística y clasificación: **13/11**.<br>**Taller sumativo de modelos predictivos: 15/11**. |
-| **4** | Clasificación con vecinos cercanos y medidas de distancia<br>**18/11/2026** | [L7: Medidas de distancia](Notebooks/L7_DistanceMeasures.ipynb)<br>[L8: KNN](Notebooks/L8_KNN.ipynb) | Material fundamental: **17/11**.<br>Práctica de KNN y foro: **20/11**. |
-| **5** | Clasificación bayesiana y árboles de decisión<br>**25/11/2026** | [L9: Naive Bayes y CART](Notebooks/L9_NaiveBayes_CART.ipynb) — sección de ensambles como ampliación<br>[L11: Series de tiempo](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Pronóstico a múltiples horizontes](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y reglas de negocio](Notebooks/L13_iforest_heristics.ipynb)\* | Material fundamental: **24/11**.<br>Prácticas de clasificación y foro: **27/11**.<br>**Taller sumativo de modelos de clasificación: 29/11**. |
-| **5 — provisional** | Hackatón<br>Fechas y horarios por confirmar | Material del caso de la hackatón. | Preparación del caso; entendimiento del negocio; preparación de datos y modelado; evaluación y presentación de resultados. |
-| **6** | Procesos estocásticos: cadenas de Markov y simulación de Monte Carlo<br>**02/12/2026** | [L10: Cadenas de Markov y simulación de Monte Carlo](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) | Material fundamental: **01/12**.<br>Práctica de Markov y foro: **04/12**.<br>Evaluación formativa de Monte Carlo y **juego serio: 06/12**. |
+| Fecha | Sesión | Notebooks/Presentaciones | Ejercicios / Entregables |
+| :---- | :--- | :--- | :--- |
+| **Semana 1** | PCA y reducción de dimensiones | [L1: Intro PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación Ortogonal](Notebooks/L3_ValidationOrthogonal-2.ipynb) | Ejercicios en Notebooks |
+| **Semana 2** | Regresión Lineal, Regularización y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) | **Quiz 1** (Antes de sesión) |
+| **Semana 3** | Regresión Logística y Validación Cruzada | [L5: Regresión Logística](Notebooks/L5_LogisticRegression.ipynb)<br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb) | **Quiz 2** (Antes de sesión) |
+| **Semana 4** | Modelos de Clasificación: Distancias y KNN | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb)<br>[L8: KNN](Notebooks/L8_KNN.ipynb) | **Quiz 3** (Antes de sesión) |
+| **Semana 5** | Modelos de Clasificación: Naive Bayes y CART | [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb)<br>[L11: Time Series](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y heurísticas](Notebooks/L13_iforest_heristics.ipynb)\* | Ejercicios en Notebooks |
+| **Semana 5 (provisional)** | Hackatón | Presentación Hackatón | Hackatón |
+| **Semana 6** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) | **Infografía** (Antes de sesión) |
 
 \* L11, L12 y L13 pueden utilizarse como material de apoyo para la hackatón, según las necesidades del caso.
-
-Todas las fechas corresponden a **2026**. Las lecturas y actividades detalladas de la plataforma se consultan en el cronograma del curso; los enlaces anteriores organizan el material de apoyo del repositorio.
 
 -----
 
