@@ -2,7 +2,8 @@
 
 **Técnicas Estocásticas de Inteligencia Artificial**
 
-  * **Profesor Magistral:** Jorge Andrés Alvarado Valencia
+  * **Profesor Magistral:** Juan Carlos Garcia Diaz
+      * email: [jgarcia.d@javeriana.edu.co](mailto:jgarcia.d@javeriana.edu.co)
   * **Profesor de Seguimiento:** Sergio A. Mora Pardo
       * email: [sergioa.mora@javeriana.edu.co](mailto:sergioa.mora@javeriana.edu.co)
       * github: [sergiomorapardo](http://github.com/sergiomorapardo)
@@ -75,11 +76,14 @@ Corrobora el logro de aprendizajes y competencias mediante las siguientes activi
 | Fecha | Sesión | Notebooks/Presentaciones | Ejercicios / Entregables |
 | :---- | :--- | :--- | :--- |
 | **Semana 1** | PCA y reducción de dimensiones | [L1: Intro PCA](Notebooks/L1_IntroPCA-3.ipynb)<br>[L2: Pipeline PCA](Notebooks/L2_pipelinePCA-2.ipynb)<br>[L3: Validación Ortogonal](Notebooks/L3_ValidationOrthogonal-2.ipynb) | Ejercicios en Notebooks |
-| **Semana 2** | Regresión Lineal, Logística y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) <br>[L5: Regresión Logistica](Notebooks/L5_LogisticRegression.ipynb) <br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb)| **Quiz 1** (Antes de sesión) |
-| **Semana 3** | Modelos de Clasificación | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb) <br> [L8: KNN](Notebooks/L8_KNN.ipynb) <br> [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb) | **Quiz 2** (Antes de sesión) |
-| **Semana 4** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) <br> [L11: Time Series](Notebooks/L11_TimeSeries.ipynb) <br> [L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb) | **Quiz 3** (Antes de sesión) |
-| **Semana 5** | Hackatón | Presentación Hackatón | Hackatón |
-| **Semana 6** | Cierre del Curso | - | **Infografía** (Antes de sesión) |
+| **Semana 2** | Regresión Lineal, Regularización y Feature Selection | [L4: Regresión Lineal](Notebooks/L4_LinearRegression.ipynb) | **Quiz 1** (Antes de sesión) |
+| **Semana 3** | Regresión Logística y Validación Cruzada | [L5: Regresión Logística](Notebooks/L5_LogisticRegression.ipynb)<br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb) | **Quiz 2** (Antes de sesión) |
+| **Semana 4** | Modelos de Clasificación: Distancias y KNN | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb)<br>[L8: KNN](Notebooks/L8_KNN.ipynb) | **Quiz 3** (Antes de sesión) |
+| **Semana 5** | Modelos de Clasificación: Naive Bayes y CART | [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb) | Ejercicios en Notebooks |
+| **Semana 5** | Hackatón | **Material de apoyo de hackatones previas**<br>[L11: Time Series](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y heurísticas](Notebooks/L13_iforest_heristics.ipynb)\*<br><br>**Hackatón actual**<br>Problema analítico, actividades y materiales por definir (TBD). | Hackatón |
+| **Semana 6** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) | **Infografía** (Antes de sesión) |
+
+\* L11, L12 y L13 pueden utilizarse como material de apoyo según el problema analítico que se defina para la hackatón.
 
 -----
 
