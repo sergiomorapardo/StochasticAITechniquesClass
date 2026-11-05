@@ -4,11 +4,12 @@
 
   * **Profesor Magistral:** Juan Carlos Garcia Diaz
       * email: [jgarcia.d@javeriana.edu.co](mailto:jgarcia.d@javeriana.edu.co)
-  * **Profesor de Seguimiento:** Sergio A. Mora Pardo
-      * email: [sergioa.mora@javeriana.edu.co](mailto:sergioa.mora@javeriana.edu.co)
-      * github: [sergiomorapardo](http://github.com/sergiomorapardo)
-  * **Profesor de Seguimiento:** Cristian Camilo Tirado Cifuentes
-      * email: [cristianctirado@javeriana.edu.co](mailto:cristianctirado@javeriana.edu.co)
+  * **Profesores de Seguimiento:**
+      * Sergio A. Mora Pardo
+          * email: [sergioa.mora@javeriana.edu.co](mailto:sergioa.mora@javeriana.edu.co)
+          * github: [sergiomorapardo](http://github.com/sergiomorapardo)
+      * Cristian Camilo Tirado Cifuentes
+          * email: [cristianctirado@javeriana.edu.co](mailto:cristianctirado@javeriana.edu.co)
 
 En esta asignatura se van a presentar los conceptos básicos para la aplicación de **modelos estadísticos** y **procesos estocásticos** como herramientas de solución a los problemas de **predicción**, **clasificación** y **optimización** en el campo del aprendizaje de máquina y la inteligencia artificial.
 
