@@ -83,10 +83,10 @@ Corrobora el logro de aprendizajes y competencias mediante las siguientes activi
 | **Semana 3** | Regresión Logística y Validación Cruzada | [L5: Regresión Logística](Notebooks/L5_LogisticRegression.ipynb)<br>[L6: Cross Validation & Grid Search](Notebooks/L6_CrossValidation.ipynb) | **Quiz 2** (Antes de sesión) |
 | **Semana 4** | Modelos de Clasificación: Distancias y KNN | [L7: Distance Measures](Notebooks/L7_DistanceMeasures.ipynb)<br>[L8: KNN](Notebooks/L8_KNN.ipynb) | **Quiz 3** (Antes de sesión) |
 | **Semana 5** | Modelos de Clasificación: Naive Bayes y CART | [L9: Intro Bayesianos & CART](Notebooks/L9_NaiveBayes_CART.ipynb) | Ejercicios en Notebooks |
-| **Semana 5** | Hackatón | **Material de apoyo de hackatones previas**<br>[L11: Time Series](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y heurísticas](Notebooks/L13_iforest_heristics.ipynb)\*<br><br>**Hackatón actual**<br>Problema analítico, actividades y materiales por definir (TBD). | Hackatón |
+| **Semana 5** | Hackatón | **Material de apoyo de hackatones previas**<br>[L11: Time Series](Notebooks/L11_TimeSeries.ipynb)\*<br>[L12: Multi-horizonts Forecasting](Notebooks/L12_TimeSeries_MultiHorizont.ipynb)\*<br>[L13: Isolation Forest y heurísticas](Notebooks/L13_iforest_heristics.ipynb)\*<br><br>**Hackatón actual: pronóstico de recaudo de cartera a 30 días (factoring)**<br>[L14: Encuadre del problema analítico](Notebooks/L14_HackathonFraming.ipynb) | Hackatón |
 | **Semana 6** | Procesos Estocásticos | [L10: Markov Chains & Monte Carlo Simulations](Notebooks/L10_MarkovChains_MonteCarloSimulations.ipynb) | **Infografía** (Antes de sesión) |
 
-\* L11, L12 y L13 pueden utilizarse como material de apoyo según el problema analítico que se defina para la hackatón.
+\* L11, L12 y L13 son material de apoyo de hackatones anteriores (variables con rezagos, split cronológico y pipelines reproducibles). L14 presenta el encuadre del reto actual con datos sintéticos; los datos reales los entrega la organización.
 
 -----
 
